@@ -21,7 +21,6 @@
   "license": "MIT",
   "dependencies": {
     "async": "^1.4.2",
-    "hiredis": "^0.4.1",
     "redis": "^2.1.0",
     "vows": "^0.8.1"
   }
