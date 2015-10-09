@@ -19,13 +19,10 @@
   ],
   "author": "Tony Sokhon",
   "license": "MIT",
-  "peerDependencies": {
-    "redis": "0.x"
-  },
-  "devDependencies": {
-    "redis": "0.x",
-    "hiredis": "0.x",
-    "async": "~0.2.10",
-    "vows": "~0.7.0"
+  "dependencies": {
+    "async": "^1.4.2",
+    "hiredis": "^0.4.1",
+    "redis": "^2.1.0",
+    "vows": "^0.8.1"
   }
 }
